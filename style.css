@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(37, 35, 35);
+}
+
+
+.ggaammee{
+    width: 294px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin: auto;
+    margin-top: 10%;
+}
+.game{
+    background-color: green;
+    margin: 5px 0; 
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+
+}
+span{
+    color: black;
+    font-size: 20px;
+}
+.s{
+    width: 80px;
+    height:80px;
+    background-color: green;
+    float: left;
+    margin: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 50PX;
+    text-align: center;
+}
+.s:hover{
+background-color: black;
+}
